@@ -1,0 +1,16 @@
+[
+{
+  "modid": "deathdairydespair",
+  "name": "TFC Death, Dairy and Despair",
+  "description": "Prevents the reset of nutrition values upon player death.",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BananaFructa"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
